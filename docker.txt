@@ -1,0 +1,5 @@
+# creación del contenedor:
+docker build -t ejercicio-scraping .
+
+# lanzar nuestro contenedor docker en el puerto 4000
+docker run -it -p 4000:4000 ejercicio-scraping

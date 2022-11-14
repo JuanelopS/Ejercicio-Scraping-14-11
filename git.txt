@@ -1,5 +1,6 @@
 git init
 git add .
 git commit -m "Envío de ejercicio 14-11-2022"
+git branch -M main
 git remote add origin https://github.com/JuanelopS/Ejercicio-Scraping-14-11.git
 git push -u origin main
